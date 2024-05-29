@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df3643dd-fc4f-4cd7-86f5-707c99f5e900" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Sz40I3Yx6ZVp7bR1TZyGQUQNoe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "last_opened_file_path": "F:/java_bigdata/JavaSamples1",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41379312",
+    "scala_project_settings_configurable.last_selected_tab_index": "6",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java_bigdata\JavaSamples1\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.spark_MLip_DecisionTreeModel">
+    <configuration name="spark_MLip_DecisionTreeModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spark_MLip_DecisionTreeModel" />
+      <module name="JavaSamples1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spark-mllib_2.11-2.3.4.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Downloads/spark-mllib_2.11-2.3.4.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spark-mllib_2.11-2.3.4.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Downloads/spark-mllib_2.11-2.3.4.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.spark_MLip_DecisionTreeModel" />
+        <item itemvalue="JAR Application.spark-mllib_2.11-2.3.4.jar (1)" />
+        <item itemvalue="JAR Application.spark-mllib_2.11-2.3.4.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="css" value="CSS" />
+        <entry key="html" value="HTML" />
+        <entry key="java" value="JAVA" />
+        <entry key="js" value="JavaScript" />
+        <entry key="json" value="JSON" />
+        <entry key="json5" value="JSON5" />
+        <entry key="less" value="LESS" />
+        <entry key="protobuf" value="protobuf" />
+        <entry key="scala" value="Scala" />
+        <entry key="sql" value="SQL" />
+        <entry key="sqlu" value="SQL" />
+        <entry key="svg" value="SVG" />
+        <entry key="xhtml" value="XHTML" />
+        <entry key="xml" value="XML" />
+        <entry key="xpath" value="XPath" />
+        <entry key="yaml" value="yaml" />
+      </map>
+    </option>
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df3643dd-fc4f-4cd7-86f5-707c99f5e900" name="Changes" comment="" />
+      <created>1690135853541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690135853541</updated>
+      <workItem from="1690135855008" duration="1841000" />
+      <workItem from="1690138891899" duration="3480000" />
+      <workItem from="1690152505770" duration="1130000" />
+      <workItem from="1690167961545" duration="183000" />
+      <workItem from="1690168173196" duration="2579000" />
+      <workItem from="1690170855751" duration="880000" />
+      <workItem from="1690171774198" duration="348000" />
+      <workItem from="1690172159738" duration="480000" />
+      <workItem from="1690172677055" duration="326000" />
+      <workItem from="1690173040169" duration="375000" />
+      <workItem from="1690173456996" duration="440000" />
+      <workItem from="1690174115165" duration="3781000" />
+      <workItem from="1690181911882" duration="677000" />
+      <workItem from="1690182721599" duration="435000" />
+      <workItem from="1690188328234" duration="2333000" />
+      <workItem from="1690205201318" duration="4989000" />
+      <workItem from="1690210318449" duration="10546000" />
+      <workItem from="1690221655691" duration="6439000" />
+      <workItem from="1690311313907" duration="7535000" />
+      <workItem from="1690382645703" duration="1921000" />
+      <workItem from="1690384621254" duration="510000" />
+      <workItem from="1690385175113" duration="1169000" />
+      <workItem from="1690386396759" duration="1881000" />
+      <workItem from="1690388346892" duration="899000" />
+      <workItem from="1690389327190" duration="1008000" />
+      <workItem from="1690390425037" duration="852000" />
+      <workItem from="1690391322040" duration="4050000" />
+      <workItem from="1690402051847" duration="433000" />
+      <workItem from="1690423735831" duration="4695000" />
+      <workItem from="1690428595132" duration="8830000" />
+      <workItem from="1690439513852" duration="3816000" />
+      <workItem from="1690444810192" duration="286000" />
+      <workItem from="1690445141734" duration="229000" />
+      <workItem from="1690445432847" duration="840000" />
+      <workItem from="1690447188447" duration="2722000" />
+      <workItem from="1690452751685" duration="12702000" />
+      <workItem from="1690647917231" duration="3677000" />
+      <workItem from="1716966805096" duration="9318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-1.8/src.zip!/java/io/ObjectStreamClass.java</url>
+          <line>391</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-1.8/src.zip!/java/util/ServiceConfigurationError.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-1.8/src.zip!/java/util/ServiceLoader.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-1.8/src.zip!/java/util/ServiceLoader.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/spark_MLip_DecisionTreeModel.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaSamples1$spark_MLip.ic" NAME="spark_MLip Coverage Results" MODIFIED="1690435463928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
